@@ -10,16 +10,24 @@ through an easy-to-use graphical interface.
 
 # Main Features
 ✅ Add new employees
+
 ✅ Update employee data
+
 ✅ Delete employees
+
 ✅ View employee list
+
 ✅ Search for an employee
+
 ✅ Store data using SQLite
+
 ✅ Interactive graphical interface using Tkinter
 
 # 🛠️ Technologies used
 Programming language: Python
+
 User interface: Tkinter
+
 Database: SQLite
 
 # 📸 Screenshots
