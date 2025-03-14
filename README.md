@@ -31,10 +31,8 @@ https://github.com/user-attachments/assets/703d7660-62f3-46f2-a33a-2476b14e09e3
 
 2- cd Employee-Management-System
 
-Install the required libraries:
 3- pip install -r requirements.txt
 
-Run the application:
 4- python main.py
 
 # Developer 👨‍💻 : Eng Abdullah Nabil Salem
